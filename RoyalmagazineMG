@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<htm
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+
+<body>
+<!DOCTYPE html>
+<html><marquee direction= "right">MOVING MADE FAST AND SIMPLE</marquee><hr><body style="background-color: yellow"<\body>
+    <style>
+      /* Form container */
+      .form-container {
+        width: 80%;
+        margin: auto;
+        padding: 20px 20px;
+        border: none;
+        border-radius: 5px;
+  
+      }
+      /* Form header */
+      .form-header {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      /* Form label */
+      .form-label {
+        font-weight: bold;
+        margin-bottom: 10px;
+        display: block;
+        align-items: center;
+      }
+      /* Form input */
+      .form-input {
+        padding: 10px;
+        width: 100%;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        align-content: center;
+      }
+      /* Form submit button */
+      .form-submit-btn {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+      }
+      .reset{
+                padding: 10px 20px;
+        <background-color:red;
+        color: white;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Form container -->
+    <div class="form-container"
+      <!-- Form header -->
+      <div class="form-header">
+ <p style="background-color:green;">✓24/7 Costumer support<br>✓Instant moving estimates<br>✓Full service relocation<br><h2>|10% OFF ON FIRST| MOVING</h2><hr></p>
+      <h2>FAST AND RELIABLE<br><p style="color:green;">MOVERS🚚 ::::::::::::::<p/></h2><p style="background-color:green;"<hr>[Royal magazine®]<p/>
+      </div>
+      <!-- Form -->
+      <form action="#">
+        <!-- Name field -->
+        <label class="form-label" for="name"><p style="color:green;"> • FULL FIRST NAME OF THE REGISTRANT:</label>
+        <input type="text" id="name" name="name" class="form-input">
+        <!-- name field -->
+        <label class="form-label" for="name"> • LAST NAME:</label>
+        <input type="name" id="name" name="name" class="form-input">
+        <!-- name field -->
+<label class="form-label" for="name"> • ADDRESS OF THE REGISTRANT :</label>
+        <input type="text" id="name" name="name" class="form-input">
+        <!-- name field -->
+<label class="form-label" for="name"> • CONTACT DETAILS SUCH AS PHONE NUMBER:</label>
+        <input type="name" id="name" name="name" class="form-input">
+        <!-- name field -->
+<label class="form-label" for="name"> • COUNTRY Of THE REGISTRANT:</label>
+        <input type="name" id="name" name="name" class="form-input">
+        <!-- name field -->
+<label class="form-label" for="name"> • MAILING ADDRESS OF THE REGISTRANT:</label>
+        <input type="name" id="name" name="name" class="form-input">
+        <!-- name field -->
+        <input type="submit">
